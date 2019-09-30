@@ -1,0 +1,27 @@
+{
+  "name": "pruebas-unitarias-interfaz",
+  "version": "1.0.0",
+  "description": "Casos de pruebas para el sitio de trello",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karensalazarcarpio/pruebaUnitariaInterfaz.git"
+  },
+  "keywords": [
+    "cypress",
+    "angular"
+  ],
+  "author": "Karen Salazar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/karensalazarcarpio/pruebaUnitariaInterfaz/issues"
+  },
+  "homepage": "https://github.com/karensalazarcarpio/pruebaUnitariaInterfaz#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "cypress": "^3.4.1"
+  }
+}
